@@ -4248,4 +4248,9 @@
     <string name="ll_reload">Reload current</string>
     <string name="ll_bad_levels">Levels must be increasing</string>
     <string name="ll_num_levels">Set number of levels</string>
+
+ <!-- On main TTS Settings screen, not found sample text message when triggers playback of an example of speech synthesis -->
+    <string name="tts_play_example_not_found_title">Warning</string>
+    <string name="tts_play_example_not_found_msg">A text string sample wasn\'t found for the requested language</string>
+    <string name="ok">OK</string>
 </resources>
