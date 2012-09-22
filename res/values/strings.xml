@@ -4256,4 +4256,5 @@
     <string name="tts_play_example_not_found_title">Warning</string>
     <string name="tts_play_example_not_found_msg">A text string sample wasn\'t found for the requested language</string>
     <string name="ok">OK</string>
+    <string name="vibration_title">Phone vibration</string>
 </resources>
